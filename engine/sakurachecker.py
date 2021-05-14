@@ -27,7 +27,7 @@ class Sakura():
     def executed_flag(self):
         return self.__executed_flag
 
-    # 商品情報を取得
+    # 商品情報をスクレイピング
 
     def fetch_producs_valuation(self, products, keyword):
         self.__keyword = keyword
