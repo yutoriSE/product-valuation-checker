@@ -16,10 +16,10 @@ logger = logger_generator.set_logger()
 driver = driver_generator.set_driver(test_flag=True)
 
 # amazonインスタンスの生成
-amazon = amazonserch.Amazon(driver)
+amazon = amazonserch.Amazon(driver, logger)
 
 # sakuraインスタンスの生成
-sakura = sakurachecker.Sakura(driver)
+sakura = sakurachecker.Sakura(driver, logger)
 
 
 # amazonのキーワード検索実行
@@ -28,7 +28,7 @@ def fetch_products_info(keyword):
     logger.debug('fetch_products_info was executed')
 
     # amazonでキーワード検索
-    amazon.fetch_product_data(keyword)
+    amazon.fetch_products_data(keyword)
 
     # サクラチェッカーで商品毎の評価取得（前回と同じキーワードの場合はスキップ）
     if not keyword == amazon.keyword:
