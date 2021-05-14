@@ -7,6 +7,7 @@ def set_driver(test_flag):
     option = Options()
     if not test_flag:
         option.add_argument('--headless')
+        option.add_argument('--log-level=3')
     option.add_argument('--ignore-certificate-errors')
     option.add_argument('--ignore-ssl-errors')
     option.add_argument('--incognito')

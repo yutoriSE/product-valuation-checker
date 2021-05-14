@@ -5,7 +5,7 @@ import traceback
 import time
 import os
 import sys
-from webdriver_manager import driver
+from webdriver_manager import driver, logger
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -44,7 +44,7 @@ class Amazon():
     def executed_flag(self):
         return self.__executed_flag
 
-    # 商品詳細を取得
+    # 商品ページの詳細を取得
     def fetch_details_info(self, urls):
 
         try:
@@ -52,52 +52,57 @@ class Amazon():
             temp_products = []
 
             for url in urls:
-                thread_driver.get(url)
+                try:
+                    thread_driver.get(url)
 
-                # 読み込み待機（5秒）
-                WebDriverWait(thread_driver, 5).until(EC.presence_of_all_elements_located(
-                    (By.ID, 'landingImage')))
+                    # 読み込み待機（5秒）
+                    WebDriverWait(thread_driver, 5).until(EC.presence_of_all_elements_located(
+                        (By.ID, 'landingImage')))
 
-                # 画像URL
-                picture = thread_driver.find_element_by_id(
-                    'landingImage').get_attribute('src')
+                    # 画像URL
+                    picture = thread_driver.find_element_by_id(
+                        'landingImage').get_attribute('src')
 
-                # 商品名
-                product_name = thread_driver.find_element_by_id(
-                    'productTitle').get_attribute('textContent').replace('\n', '')
+                    # 商品名
+                    product_name = thread_driver.find_element_by_id(
+                        'productTitle').get_attribute('textContent').replace('\n', '')
 
-                # 価格
-                price = thread_driver.find_element_by_id(
-                    'price').text
+                    # 価格
+                    price = thread_driver.find_element_by_id(
+                        'price').text
 
-                # 価格の不要行削除
-                if '\n' in price:
-                    price = price[:price.find('\n')]
-                price = price[price.find('￥')+1:].replace(',', '')
+                    # 価格の不要行削除
+                    if '\n' in price:
+                        price = price[:price.find('\n')]
+                    price = price[price.find('￥')+1:].replace(',', '')
 
-                # 価格の不要文字列削除
-                if ' ' in price:
-                    price = price[:price.find(' ')]
+                    # 価格の不要文字列削除
+                    if ' ' in price:
+                        price = price[:price.find(' ')]
 
-                # 評価
-                valuations = thread_driver.find_elements_by_class_name(
-                    'a-icon-alt')
-                valuation = ''
-                for valuation in valuations:
-                    if '星' in valuation.get_attribute('textContent'):
-                        valuation = valuation.get_attribute('textContent')[-3:]
-                    else:
-                        valuation = "評価無し"
+                    # 評価
+                    valuations = thread_driver.find_elements_by_class_name(
+                        'a-icon-alt')
+                    valuation = ''
 
-                temp_products.append(
-                    [product_name, price, valuation, picture, url])
+                    for valuation in valuations:
+                        if '星' in valuation.get_attribute('textContent'):
+                            valuation = valuation.get_attribute(
+                                'textContent')[-3:]
+                        else:
+                            valuation = "評価無し"
+
+                    temp_products.append(
+                        [product_name, price, valuation, picture, url])
+                except:
+                    self.logger.debug(url)
+                    self.logger.debug(f'要素取得エラー：{traceback.format_exc()}')
 
             self.__products.extend(temp_products)
 
             self.logger.debug(f'詳細の取得完了：{len(temp_products)} 件')
         except:
-            self.logger.debug(url)
-            self.logger.debug(f'要素取得エラー：{traceback.format_exc()}')
+            self.logger.debug(f'ページ情報取得エラー：{traceback.format_exc()}')
 
     # スレッドコントローラ
     def control_thread(self, urls):
@@ -117,8 +122,10 @@ class Amazon():
 
             time.sleep(0.5)
 
-    # 商品情報を取得
+    # クローリング
     def fetch_products_data(self, keyword):
+
+        self.logger.debug('#############START#############')
 
         # 時間計測用
         start_time = time.time()
@@ -170,15 +177,24 @@ class Amazon():
         thread_list = threading.enumerate()
         thread_list.remove(threading.main_thread())
 
+        self.logger.debug(f'スレッド数：{len(thread_list)}')
+
         for thread in thread_list:
             thread.join()
 
+        # 保存
         df = pd.DataFrame(self.__products)
+        self.logger.debug(f'取得データ：{df}')
         df.columns = ['商品名', '価格', '評価', '画像URL', 'URL']
         df.to_excel('data.xlsx', index=None)
 
+        # 完了フラグ
+
+        # 処理時間算出
         elapsed_time = time.time() - start_time
         self.logger.debug(f'処理時間：{elapsed_time} sec')
+
+        self.logger.debug('#############END#############')
 
 
 # API利用
