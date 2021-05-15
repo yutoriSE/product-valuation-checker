@@ -56,7 +56,7 @@ class Amazon():
                     thread_driver.get(url)
 
                     # 読み込み待機（5秒）
-                    WebDriverWait(thread_driver, 5).until(EC.presence_of_all_elements_located(
+                    WebDriverWait(thread_driver, 3).until(EC.presence_of_all_elements_located(
                         (By.ID, 'landingImage')))
 
                     # 画像URL
@@ -142,7 +142,7 @@ class Amazon():
         while True:
 
             # 読み込み待機
-            WebDriverWait(self.driver, 30).until(
+            WebDriverWait(self.driver, 10).until(
                 EC.presence_of_all_elements_located((By.CLASS_NAME, 'a-last')))
 
             # 商品要素取得

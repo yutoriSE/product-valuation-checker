@@ -1,0 +1,452 @@
+#############START#############
+最終ページ
+スレッド数：3
+https://www.amazon.co.jp/Lenovo-%E3%82%BF%E3%83%83%E3%83%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-Graphics-81X20005US-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC/dp/B086226DDB/ref=sr_1_102?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012775&sr=8-102
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-IdeaPad-81LW00DGJP-Ryzen5-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B082WW6JF8/ref=sr_1_54?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-54
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HUAWEI%EF%BC%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%EF%BC%89-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-HUAWEI-MateBook-WRT29CH78CNC9NUA/dp/B07PFBTYS9/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012769&sr=8-7
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-IdeaPad-14%E3%82%A4%E3%83%B3%E3%83%81-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-14-0%E3%82%A4%E3%83%B3%E3%83%81/dp/B0862269YP/ref=sr_1_103?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012775&sr=8-103
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-ideaPad-80SG00APJP-Mobile%E6%90%AD%E8%BC%89-2016%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B01LRNR0QU/ref=sr_1_57?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-57
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+詳細の取得完了：10 件
+https://www.amazon.co.jp/TECLAST%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%80%8114-1-%E8%96%84%E8%BB%BD%E3%83%8E%E3%83%BC%E3%83%88PC%E3%80%818GB-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%80%81%E8%B6%85%E8%BB%BD%E9%87%8F%E5%A4%A7%E7%94%BB%E3%80%81Windows10%E3%80%81USB-%E3%80%81%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC38Wh-%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%9C%E3%83%87%E3%80%81Bluetooth/dp/B089QDRWFL/ref=sr_1_55?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-55
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Dell-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Chromebook-3180-19Q31/dp/B07JHBBVVX/ref=sr_1_56?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-56
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88-Surface-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-OfficeH-DAG-00059/dp/B071JXXZKT/ref=sr_1_57?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-57
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-IdeaPad-81LW00DFJP-Ryzen5-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B082WWC8G9/ref=sr_1_59?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-59
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/LG-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC24%E6%99%82%E9%96%93-Windows10-15Z990-GA55J-Amazon-co-jp%E9%99%90%E5%AE%9A/dp/B07MZ1K6ZH/ref=sr_1_61?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-61
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/ZenBook-i9-9980HK-32GB%E3%83%BBSSD-Win10-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91UX581GV-9980/dp/B07WN4C129/ref=sr_1_62?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-62
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88-Surface-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Office-KJR-00014/dp/B07CKM97G6/ref=sr_1_63?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-63
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88-Surface-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Office-FJR-00014/dp/B071VZ3P66/ref=sr_1_64?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-64
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3ZenBook-UM425IA-%E7%B4%841-25kg-Type-C%E5%85%85%E9%9B%BB-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91%E3%80%90%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E4%BF%9D%E8%A8%BC%E3%80%91UM425IA-AM008T/dp/B08H8N5L6P/ref=sr_1_65?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-65
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HUAWEI-MateBook-13-9%E3%82%A4%E3%83%B3%E3%83%81-GeForce%C2%AE-MX250/dp/B088WTT61B/ref=sr_1_29?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012769&sr=8-29
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/ZenBook-i5-8265U-8GB%E3%83%BBSSD-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91-UX434FL-A6002T/dp/B07WT4NF93/ref=sr_1_75?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-75
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-VivoBook-i5-8265U-8GB%E3%83%BBSSD-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91S330FA-8265/dp/B07WZS1RRM/ref=sr_1_76?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-76
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Chromebook-14-0%E5%9E%8BWXGA%E6%B6%B2%E6%99%B6-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91-C403NA-FQ0029/dp/B07TK8JSKL/ref=sr_1_81?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-81
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/KBook%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%80%8113-5%E3%82%A4%E3%83%B3%E3%83%813000x2000%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%80%81FHD-IPS%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%80%81intel-m3-6Y30%E3%80%818GB-SSD%E3%80%81Windows-10%E3%80%81Type-C%E3%80%81USB/dp/B07XHL9G2Q/ref=sr_1_82?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-82
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HUAWEI-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4-MRCW60H78AAANAUA-%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-i7%E3%83%BB15-6%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BBSSD/dp/B07HDQXHPM/ref=sr_1_83?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-83
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-FA506II-16GB%E3%83%BBSSD-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91%E3%80%90%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E4%BF%9D%E8%A8%BC%E3%80%91FA506II-R7G1650T/dp/B089SV43Q6/ref=sr_1_40?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012769&sr=8-40
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Matebook-13-9%E3%82%A4%E3%83%B3%E3%83%81-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81-MAW29CH75CNCNAUA/dp/B07CSRVTKQ/ref=sr_1_41?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012769&sr=8-41
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E8%96%84%E5%9E%8B%E8%BB%BD%E9%87%8F%E3%80%91Lenovo-%E7%AC%AC8%E4%B8%96%E4%BB%A3Corei7-IEEE802-11ac-10%E3%82%AD%E3%83%BC%E4%BB%98%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E3%83%BBIPS%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B07GVBHB2H/ref=sr_1_91?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-91
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Gaming%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91Core-i5-GTX1050Ti-%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89HDD-FX504GE-I5H1/dp/B07HCLF6FJ/ref=sr_1_92?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-92
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HP-%E6%9C%80%E5%A4%A73-2GHz%E3%80%814GB-5%E3%80%81Bluetooth-4-2%E3%80%81HDMI%E3%80%81Webcam%E3%80%81Windows-S%E3%80%81%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB/dp/B087N73SHT/ref=sr_1_93?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-93
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Gaming%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91Core-i5-GTX1050Ti-%E8%8B%B1%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-FX504GE-I5H1S1/dp/B07HCXRDRP/ref=sr_1_94?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621012772&sr=8-94
+要素取得エラー：Traceback (most recent call last):
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\amazonserch.py", line 72, in fetch_details_info
+    'price').text
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+詳細の取得完了：47 件
+詳細の取得完了：40 件
+取得データ：                                                    0  ...                                                  4
+0   HP ノートパソコン インテル第11世代 Core i7/16GBメモリ/1TB SSD H...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+1   Lenovo ノートPC YOGA14/12.5型/タッチパネル/MS Office 201...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+2   薄型ノートPC/wajun(ワジュン) Pro-X11/未使用品/MS Office 201...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+3   東芝 ノートPC R73/wajun(ワジュン) XR PCバッグセット/13.3型/MS ...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+4   ASUS ZenBook 13 UX331UA Ultra-Slim Laptop 13.3...  ...  https://www.amazon.co.jp/ASUS-Ultra-Slim-WideV...
+..                                                ...  ...                                                ...
+92  2020 Acer Aspire 5 スリム ノートパソコン 15.6 FHD IPS ディ...  ...  https://www.amazon.co.jp/Acer-%E3%83%87%E3%82%...
+93  富士通 ノートPC A576/wajun XS PCバッグセット/15.6型/MS Offi...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+94  富士通 ノートPC S936/wajun(ワジュン) XR PCバッグセット/13.3型フル...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+95  東芝 ノートPC B65/wajun(ワジュン) PCバッグ付/15.6型液晶/MS Off...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+96  富士通 ノートPC A577/wajun XS PCバッグセット/MS Office 201...  ...  https://www.amazon.co.jp/gp/slredirect/picasso...
+
+[97 rows x 5 columns]
+処理時間：257.87864685058594 sec
+#############END#############
+異常終了：Traceback (most recent call last):
+  File "c:/Users/ko092/Documents/jobs/自作アプリ/まとめてサクラチェッカー/test.py", line 20, in <module>
+    sakura.fetch_producs_valuation(amazon.products, amazon.keyword)
+  File "c:\Users\ko092\Documents\jobs\自作アプリ\まとめてサクラチェッカー\engine\sakurachecker.py", line 107, in fetch_producs_valuation
+    df.columns = ["商品名", "価格", "サクラ度", "Amazon評価", "サクラチェッカー評価", "画像URL", "AmazonURL", "サクラチェッカーURL"]
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\pandas\core\generic.py", line 5154, in __setattr__
+    return object.__setattr__(self, name, value)
+  File "pandas\_libs\properties.pyx", line 66, in pandas._libs.properties.AxisProperty.__set__
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\pandas\core\generic.py", line 564, in _set_axis
+    self._mgr.set_axis(axis, labels)
+  File "C:\Users\ko092\Anaconda3\lib\site-packages\pandas\core\internals\managers.py", line 227, in set_axis
+    f"Length mismatch: Expected axis has {old_len} elements, new "
+ValueError: Length mismatch: Expected axis has 0 elements, new values have 8 elements
+

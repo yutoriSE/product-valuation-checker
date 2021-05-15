@@ -13,9 +13,10 @@ driver = driver_generator.set_driver(test_flag=True)
 amazon = amazonserch.Amazon(driver, logger)
 
 # sakuraインスタンスの生成
-sakura = sakurachecker.Sakura(driver)
+sakura = sakurachecker.Sakura(logger)
 
 try:
     amazon.fetch_products_data('MateBook 13')
+    sakura.fetch_producs_valuation(amazon.products, amazon.keyword)
 except:
     logger.debug(f'異常終了：{traceback.format_exc()}')
