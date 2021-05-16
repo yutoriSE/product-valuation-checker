@@ -47,9 +47,10 @@ class Amazon():
     # 商品ページの詳細を取得
     def fetch_details_info(self, urls):
 
+        thread_driver = driver_generator.set_driver(test_flag=False)
+        temp_products = []
+
         try:
-            thread_driver = driver_generator.set_driver(test_flag=False)
-            temp_products = []
 
             for url in urls:
                 try:
@@ -103,6 +104,8 @@ class Amazon():
             self.logger.debug(f'詳細の取得完了：{len(temp_products)} 件')
         except:
             self.logger.debug(f'ページ情報取得エラー：{traceback.format_exc()}')
+
+        thread_driver.close()
 
     # スレッドコントローラ
     def control_thread(self, urls):

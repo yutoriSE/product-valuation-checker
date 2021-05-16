@@ -1,0 +1,1095 @@
+#############START#############
+最終ページ
+スレッド数：2
+https://www.amazon.co.jp/Matebook-13-9%E3%82%A4%E3%83%B3%E3%83%81-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC-%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81-MAW29CH75CNCNAUA/dp/B07CSRVTKQ/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-4
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E8%96%84%E5%9E%8B%E8%BB%BD%E9%87%8F%E3%80%91Lenovo-%E7%AC%AC8%E4%B8%96%E4%BB%A3Corei7-IEEE802-11ac-10%E3%82%AD%E3%83%BC%E4%BB%98%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E3%83%BBIPS%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B07GVBHB2H/ref=sr_1_53?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075169&sr=8-53
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Gaming%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91Core-i5-GTX1050Ti-%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89HDD-FX504GE-I5H1/dp/B07HCLF6FJ/ref=sr_1_54?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075169&sr=8-54
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Gaming%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91Core-i5-GTX1050Ti-%E8%8B%B1%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-FX504GE-I5H1S1/dp/B07HCXRDRP/ref=sr_1_55?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075169&sr=8-55
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%80%90%E3%82%B3%E3%82%B9%E3%83%91%E3%83%A2%E3%83%87%E3%83%AB%E3%80%91Huawei-MateBook-15-6%E3%82%A4%E3%83%B3%E3%83%81-SSD256G-%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91/dp/B08613DTNF/ref=sr_1_7?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-7
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-%E3%82%BF%E3%83%83%E3%83%81%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-Graphics-81X20005US-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%B0%E3%83%AC%E3%83%BC/dp/B086226DDB/ref=sr_1_57?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075169&sr=8-57
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HUAWEI-MateBook-13-9%E3%82%A4%E3%83%B3%E3%83%81-GeForce%C2%AE-MX250/dp/B088WTT61B/ref=sr_1_11?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-11
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-FA506II-16GB%E3%83%BBSSD-%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91%E3%80%90%E3%81%82%E3%82%93%E3%81%97%E3%82%93%E4%BF%9D%E8%A8%BC%E3%80%91FA506II-R7G1650T/dp/B089SV43Q6/ref=sr_1_14?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-14
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+詳細の取得完了：13 件
+https://www.amazon.co.jp/Lenovo-IdeaPad-81LW00DGJP-Ryzen5-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B082WW6JF8/ref=sr_1_22?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-22
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-ideaPad-80SG00APJP-Mobile%E6%90%AD%E8%BC%89-2016%E5%B9%B4%E3%83%A2%E3%83%87%E3%83%AB/dp/B01LRNR0QU/ref=sr_1_25?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-25
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/TECLAST%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E3%80%8114-1-%E8%96%84%E8%BB%BD%E3%83%8E%E3%83%BC%E3%83%88PC%E3%80%818GB-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%80%81%E8%B6%85%E8%BB%BD%E9%87%8F%E5%A4%A7%E7%94%BB%E3%80%81Windows10%E3%80%81USB-%E3%80%81%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC38Wh-%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%9C%E3%83%87%E3%80%81Bluetooth/dp/B089QDRWFL/ref=sr_1_28?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-28
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88-Surface-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-OfficeH-D9P-00039/dp/B071WVMT2J/ref=sr_1_30?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-30
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/Lenovo-IdeaPad-81LW00DHJP-Ryzen5-15-6%E5%9E%8B%E3%83%95%E3%83%ABHD%E6%B6%B2%E6%99%B6%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/dp/B082WVXS67/ref=sr_1_31?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-31
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/LG-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC24%E6%99%82%E9%96%93-Windows10-15Z990-GA55J-Amazon-co-jp%E9%99%90%E5%AE%9A/dp/B07MZ1K6ZH/ref=sr_1_33?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-33
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88-Surface-%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Office-KJR-00014/dp/B07CKM97G6/ref=sr_1_34?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-34
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/ZenBook-i9-9980HK-32GB%E3%83%BBSSD-Win10-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91UX581GV-9980/dp/B07WN4C129/ref=sr_1_35?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-35
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/ZenBook-8GB%E3%83%BBSSD-%E3%83%A6%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%E3%83%96%E3%83%AB%E3%83%BC-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91-UM431DA-AM001T/dp/B07YBCNKR5/ref=sr_1_36?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-36
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/ZenBook-i5-8265U-8GB%E3%83%BBSSD-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91-UX434FL-A6002T/dp/B07WT4NF93/ref=sr_1_40?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-40
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-VivoBook-i5-8265U-8GB%E3%83%BBSSD-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91S330FA-8265/dp/B07WZS1RRM/ref=sr_1_41?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-41
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-Chromebook-14-0%E5%9E%8BWXGA%E6%B6%B2%E6%99%B6-%E3%80%90%E6%97%A5%E6%9C%AC%E6%AD%A3%E8%A6%8F%E4%BB%A3%E7%90%86%E5%BA%97%E5%93%81%E3%80%91-C403NA-FQ0029/dp/B07TK8JSKL/ref=sr_1_44?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-44
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+https://www.amazon.co.jp/HUAWEI-%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4-MRCW60H78AAANAUA-%E3%83%9F%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-i7%E3%83%BB15-6%E3%82%A4%E3%83%B3%E3%83%81%E3%83%BBSSD/dp/B07HDQXHPM/ref=sr_1_46?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=MateBook+13&qid=1621075168&sr=8-46
+要素取得エラー：Traceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\amazonserch.py", line 73, in fetch_details_info
+    'price').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="price"]"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+詳細の取得完了：33 件
+取得データ：                                                    0       1     2                                                  3                                                  4
+0   Lenovo ノートPC YOGA14/12.5型/タッチパネル/MS Office 201...  139800   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+1   富士通 ノートPC Q507/wajun(ワジュン)PCバッグ付/10.1型IPSフルHD/...  125580   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+2   東芝 ノートPC R73/wajun(ワジュン) XR PCバッグセット/13.3型/MS ...  249800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+3   HP ノートパソコン HP Spectre x360 13 インテル第11世代 Core i...  169800   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+4   ASUS ZenBook 13 UX331UA Ultra-Slim Laptop 13.3...  157237  評価無し  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/ASUS-Ultra-Slim-WideV...
+5   富士通 ノートPC S936/wajun(ワジュン) XR PCバッグセット/13.3型フル...  238000   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+6   【中古パソコン】国産大手メーカー CF-SZ5 シリーズ第六世代Core i5 6300U　...   38800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+7   東芝 ノートPC R63/wajun(ワジュン) XR PCバッグセット/13.3型/MS ...  279800   4.5  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+8   【中古パソコン】国産大手メーカー CF-SX4 第五世代Core i5 5200U 2.4G...   37600   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+9   HP ノートパソコン インテル第11世代 Core i7/16GBメモリ/1TB SSD H...  197800   3.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+10  【セキュリティソフトセット】Dynabook BJ65 Windows10 Pro 64bi...   79980  評価無し  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+11  Panasonic ノートPC CF-NX3/wajun(ワジュン)PCバッグ付/12.1型...  145800   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+12  【中古パソコン】国産大手メーカー CF-NX4 第五世代Core i5 2.4GHz　【MS...   39800   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+13  東芝 ノートPC R73/wajun(ワジュン)PCバッグセット/13.3型/MS Offi...  213880   3.6  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+14  HUAWEI MateBook 13 2020 ノートパソコン 13インチ Windows ...   98811   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Huawei-MateBook-Core-...
+15  HUAWEI MateBook X ノートパソコン 13インチ Windows 10 Hom...  170280   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/HUAWEI-MateBook-Corei...
+16  【MS Office Home&Business 2019搭載】Dell ノートパソコン I...   49673   3.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Business-2019%E6%90%A...
+17  Chromebook クロームブック ASUS ノートパソコン 14.0型フルHD液晶 日本...   64036   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Chromebook-%E3%82%AF%...
+18  2021年新モデル　インテルCore i7 6700U【MS Office搭載】【Win 1...   79800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/2021%E5%B9%B4%E6%96%B...
+19  LG ノートパソコン gram 999g/バッテリー約22時間/第10世代 Core i5/...  124980   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/LG-%E3%83%90%E3%83%83...
+20  インテル Core i5搭載 ASUS ノートパソコン ExpertBook B9 B945...  139800   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3...
+21  富士通 ノートPC A574/MS Office 2019/Win 10/15.6型/DVD...   24100   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3...
+22  Google Chromebook Lenovo ノートパソコン 14.0型フルHD 英語キ...   34480   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Lenovo-Chromebook-14-...
+23  インテル Core i7搭載 ASUS オフィス付きノートパソコン X545FA( 8GB・...  120780   1.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%82%AA%E3%83%95%E3...
+24  【MS 2010/Windows10標準搭載】Jumper S5 14インチFHD IPS超...   43999   1.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Windows10%E6%A8%99%E6...
+25  【8GBメモリ/大容量SSD搭載】初期設定不要 Office2016付き 1.6kg薄型軽量...   41966   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E5%A4%A7%E5%AE%B9%E9...
+26  ASUS ノートパソコン ZenBook(Core i5-8250U/8GB・SSD 512...  153780   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3...
+27  Jumper EZbook X7 超軽量 薄型 PC ノートパソコン 超高速Celeron ...   43000   3.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/EZbook-X7-%E8%B6%85%E...
+28  ASUS ノートパソコン VivoBook S15 モスグリーン (Core i5-1021...   79817   2.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3...
+29  ONE-NETBOOK OneGx1 ゲーミングノートパソコン ( 英語キーボード / Wi...   98780   3.6  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/ONE-NETBOOK-OneGx1-%E...
+30  マイクロソフト Surface Go(サーフェス ゴー) 10インチ PixelSence ...   75900   3.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3...
+31  HP ノートパソコン HP ENVY x360 13 13.3インチ フルHDタッチパネルデ...   99800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/HP-%E3%83%8E%E3%83%BC...
+32  東芝 ノートPC R63/wajun(ワジュン) XR PCバッグセット/13.3型/MS ...  219800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/gp/slredirect/picasso...
+33  【8GBメモリ/大容量SSD搭載】初期設定不要 Office 2016付き 1.6kg薄型軽...   53966   1.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E5%A4%A7%E5%AE%B9%E9...
+34  ALLDOCUBE Kbook Lite 超軽量 薄型 PC ノートパソコン 日本語キーボー...   32990   1.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/ALLDOCUBE-%E3%83%8E%E...
+35  Magic-Ben MAG1 Ultrabook Core m3-8100y 8.9インチ ...   99990   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Magic-Ben-IPS%E3%82%B...
+36  【Amazon.co.jp 限定】Chromebook クロームブック Acer ノートパソ...   99800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%80%90Amazon-co-jp...
+37  ノートPC 14.1インチ、TECLAST F7 Plus ノートパソコン 8GB メモリ ...   58900   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/TECLAST-Plus-%E8%96%8...
+38  TECLAST F6 Plus 超軽量 薄型 PC 13.3インチノートPC 360°回転式...   58900   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/F6-13-3%E3%82%A4%E3%8...
+39  マイクロソフト Surface Book 2 [サーフェス ブック 2 ノートパソコン] O...  243800   3.9  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3...
+40  Huawei MateBook 13/13インチ/Core-i5/メモリ8G/SSD512G...  114969   4.7  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/MateBook-Core-i5-SSD5...
+41  Huawei MateBook X/ゴールド/Core i7/8G/512G SSD/Win...  162341   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Huawei-MateBook-Offic...
+42  LG ノートパソコン gram 1099g/バッテリー24時間/Core i5/15.6イン...  129800   4.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/LG-%E3%83%8E%E3%83%BC...
+43  【PC+Bloothイヤホンセット】Huawei MateBook D 15/Ryzen7+...   85060   4.3  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Blooth%E3%82%A4%E3%83...
+44                                      HUAWEIMB13/I7   99800   4.6  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/HUAWEI%EF%BC%88%E3%83...
+45  2020 Acer Aspire 5 スリム ノートパソコン 15.6 FHD IPS ディ...  115320   5.0  https://images-na.ssl-images-amazon.com/images...  https://www.amazon.co.jp/Acer-%E3%83%87%E3%82%...
+処理時間：119.39643478393555 sec
+#############END#############
+##########SAKURA_START##########
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+サクラチェッカー評価取得エラーTraceback (most recent call last):
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 78, in fetch_valuation_details
+    'sakura-num').text
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 564, in find_element_by_class_name
+    return self.find_element(by=By.CLASS_NAME, value=name)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".sakura-num"}
+  (Session info: headless chrome=90.0.4430.93)
+
+
+異常終了：Traceback (most recent call last):
+  File "e:/jobs/自作ツール/まとめてサクラチェッカー/test.py", line 20, in <module>
+    sakura.fetch_producs_valuation(amazon.products, amazon.keyword)
+  File "e:\jobs\自作ツール\まとめてサクラチェッカー\engine\sakurachecker.py", line 121, in fetch_producs_valuation
+    "サクラチェッカー評価", "画像URL", "AmazonURL", "サクラチェッカーURL"]
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\pandas\core\generic.py", line 5287, in __setattr__
+    return object.__setattr__(self, name, value)
+  File "pandas\_libs\properties.pyx", line 67, in pandas._libs.properties.AxisProperty.__set__
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\pandas\core\generic.py", line 661, in _set_axis
+    self._data.set_axis(axis, labels)
+  File "C:\Users\kazu0920\anaconda3\lib\site-packages\pandas\core\internals\managers.py", line 178, in set_axis
+    f"Length mismatch: Expected axis has {old_len} elements, new "
+ValueError: Length mismatch: Expected axis has 0 elements, new values have 8 elements
+
